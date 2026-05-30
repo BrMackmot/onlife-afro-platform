@@ -231,9 +231,16 @@ instance/
 # Database (optional)
 community.db
 
+community.db
+__pycache__/
+*.pyc
+venv/
+.env
+
 # Environment Variables
 .env
 
 # OS Files
 .DS_Store
 Thumbs.db
+
