@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Flask
+instance/
+
+# Database (optional)
+community.db
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
